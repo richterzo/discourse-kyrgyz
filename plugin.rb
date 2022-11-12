@@ -1,5 +1,5 @@
 # name: discourse-ky-locale
-# about: Adds a new locale for Uzbek
+# about: Adds a new locale for Kyrgyz
 # version: 0.1
 # authors: Terzaghi Riccardo
 # url: https://github.com/richterzo/discourse-kyrgyz
