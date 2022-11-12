@@ -1,6 +1,6 @@
 # discourse-kirgyz-locale
 
-This plugin adds a version of Uzbek as a new locale to Discourse.
+This plugin adds a version of Kyrgyz as a new locale to Discourse.
 
 ## Installation
 
