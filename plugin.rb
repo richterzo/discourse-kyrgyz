@@ -1,8 +1,8 @@
-# name: discourse-mk--locale
+# name: discourse-ky-locale
 # about: Adds a new locale for Uzbek
 # version: 0.1
 # authors: Terzaghi Riccardo
-# url: https://github.com/richterzo/discourse-macedonian
+# url: https://github.com/richterzo/discourse-kyrgyz
 
 register_locale("ky", name: "Kyrgyz", nativeName: "Кыргызча", fallbackLocale: "en_GB")
 
